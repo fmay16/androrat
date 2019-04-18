@@ -9,7 +9,7 @@ import android.widget.Button;
 import android.widget.EditText;
 
 public class LauncherActivity extends Activity {
-    /** Called when the activity is first created. */
+    /** Called whun the activity is first created. */
 	
 	Intent Client, ClientAlt;
 	Button btnStart, btnStop;
